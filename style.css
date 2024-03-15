@@ -310,7 +310,7 @@ body {
 }
 
 .rsvp {
-  background-color: var(--bg);
+  background-color: aqua;
 }
 
 .rsvp h2 {
@@ -318,11 +318,11 @@ body {
 }
 
 .rsvp p {
-  color: white;
+  color: var(--bg);
 }
 
 .rsvp form label {
-  color: white;
+  color: var(--bg);
 }
 
 .rsvp button {
